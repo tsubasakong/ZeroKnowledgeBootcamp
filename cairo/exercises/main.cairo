@@ -2,4 +2,6 @@
 
 // Type `hint` in watch mode for a hint.
 
-// I AM NOT DONE
+fn main() {
+
+}
